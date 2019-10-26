@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{41B47112-9B1E-1F46-2415-44D8087140E8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripes/Image_Recognition.cs">
+    <Files>
+      <File FileName="Assets/Scripes/TextController.cs" Line="64" Column="51" />
+      <File FileName="Assets/Scripes/TrackedImageInfoMultipleManager.cs" Line="83" Column="39" />
+      <File FileName="Assets/Scripes/textController2.cs" Line="36" Column="1" />
+      <File FileName="Assets/Scripes/Image_Recognition.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="unity_v1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripes" expanded="True">
+                <Node name="Image_Recognition.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a7b739da-d1bc-48ec-a078-c325be997cdc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

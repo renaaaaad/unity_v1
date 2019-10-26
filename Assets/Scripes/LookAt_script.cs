@@ -12,6 +12,8 @@ public class LookAt_script : MonoBehaviour
 
     public Transform target2;
 
+    public Transform textbox;
+
 
 
     //****************************************************** functions ************************************************************
@@ -30,5 +32,8 @@ public class LookAt_script : MonoBehaviour
 
         transform.LookAt(target2);
         transform.LookAt(target2, Vector3.left);
+
+        transform.LookAt(textbox);
+        transform.LookAt(textbox, Vector3.left);
     }//Update
 }
